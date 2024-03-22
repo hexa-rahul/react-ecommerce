@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-wrapper a {
+  color: white;
+  margin: 2px 15px;
+  text-decoration: none;
+}
